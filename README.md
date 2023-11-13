@@ -11,3 +11,6 @@
 - **end** *[taskname]* - Terminate the task *taskname* and show the elapsed time.
 - **endall** - Terminate all the tasks and show their respective elapsed time.
 - **exit** - Exit.
+# Demo
+![img1](image1.png)
+![img2](image2.png)
