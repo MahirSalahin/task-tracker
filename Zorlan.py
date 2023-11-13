@@ -1,6 +1,6 @@
 import time
 import typer
-from typing import *
+from typing import List
 
 app = typer.Typer()
 
